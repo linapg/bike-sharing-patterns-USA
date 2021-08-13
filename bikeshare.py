@@ -501,9 +501,12 @@ def individual_data(df, city):
 
 
 def main():
-    """Calls all functions in a loop that can be broken by choosing not to restart the program"""
+    """
+    Calls all functions in a loop that can be broken by choosing not to restart the program
+    """
 
     while True:
+        
         city, month, day, filter = get_filters()
         df = load_data(city, month, day)
         time_stats(df, city, month, day)
@@ -538,7 +541,6 @@ def main():
                             "Code structure provided by Udacity® - Modifications to the structure and coding by Lina María Pérez González\n"
                             "August 2021 - Siegen, Germany - A corona-quarantine project :)")
             break
-
 
 if __name__ == "__main__":
     main()
