@@ -1,17 +1,28 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+August 13, 2021
 
 ### Project Title
-Replace the Project Title
+The US bike-share data explorer
 
 ### Description
-Describe what your project is about and what it does
+This project explores the Motivate database for a bike share system for many major cities in the United States. It aims to uncover bike share usage patterns by comparing the information of three large cities: Chicago, New York City, and Washington, DC.
 
-### Files used
-Include the files used
+### Motivation
+The US bike-sharing data-explorer was created to fulfil the requirements of the Udacity® Nano-degree Program: 'Programming for Data Science with Python’.
+
+### Features
+The program is interactive and works by filtering the data frames of each one of the cities with time filters. The program calculates descriptive statistics for stations, trips, and users. It offers the possibility to get information on gender, and birth year. It also shows the average trip and average age grouped by gender (only for the cities of Chicago and New York). The user can explore individual data as well.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.w3schools.com/python/python_reference.asp 
+https://stackoverflow.com/ 
+https://www.geeksforgeeks.org/ 
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html 
+https://www.mygreatlearning.com/blog/readme-file/ 
 
+Code structure provided by Udacity®. 
+Modifications to the structure and coding by Lina María Pérez González. 
+If you see a mistake in the code, or room for improvement, please do let me know at linaperez.politica@gmail.com
+August 2021 - Siegen, Germany.
+A corona-quarantine project 
+:)
