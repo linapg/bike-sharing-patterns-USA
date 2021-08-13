@@ -419,7 +419,7 @@ def user_stats(df, city):
         print(average_trips_by_gender)
         print("")
 
-        # 2021 - birth year
+        # average age
         average_birthyear_by_gender = 2021 - averages_by_gender[["Birth Year"]]
 
         # average age for Female users
