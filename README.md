@@ -5,7 +5,7 @@ August 13, 2021
 The US bike-share data explorer
 
 ### Description
-This project explores the Motivate database for a bike share system for many major cities in the United States. It aims to uncover bike share usage patterns by comparing the information of three large cities: Chicago, New York City, and Washington, DC.
+It is an interactive program that runs completely in Python and explores the bike share database for many major cities in the United States. It aims to uncover bike share usage patterns by comparing the information of three large cities: Chicago, New York City, and Washington, DC.
 
 ### Motivation
 The US bike-sharing data-explorer was created to fulfil the requirements of the Udacity® Nano-degree Program: 'Programming for Data Science with Python’.
@@ -20,9 +20,7 @@ https://www.geeksforgeeks.org/
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html 
 https://www.mygreatlearning.com/blog/readme-file/ 
 
-Code structure provided by Udacity®. 
-Modifications to the structure and coding by Lina María Pérez González. 
-If you see a mistake in the code, or room for improvement, please do let me know at linaperez.politica@gmail.com
-August 2021 - Siegen, Germany.
-A corona-quarantine project 
-:)
+Code structure provided by Udacity®
+If you see a mistake in the code, or room for improvement, please do let me know at contact@linaperez.de
+August 2021 - Siegen, Germany
+A corona-quarantine project
