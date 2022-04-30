@@ -20,7 +20,7 @@ https://www.geeksforgeeks.org/
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html 
 https://www.mygreatlearning.com/blog/readme-file/ 
 
-Code structure provided by Udacity®
-If you see a mistake in the code, or room for improvement, please do let me know at contact@linaperez.de
-August 2021 - Siegen, Germany
+Code structure provided by Udacity®  
+If you see a mistake in the code, or room for improvement, please do let me know at contact@linaperez.de  
+August 2021 - Siegen, Germany  
 A corona-quarantine project
